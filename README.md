@@ -1,7 +1,5 @@
 # To-Do-with-React
 
-![To-Do App Screenshot](screenshot.png)
-
 This is a simple to-do web application built with React and Vite, allowing users to create, update, and delete tasks.
 
 You can access the live demo of the application [here](https://65ef5ac52009540459e03fee--teal-pika-ccfbc4.netlify.app/).

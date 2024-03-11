@@ -1,11 +1,5 @@
 # To-Do-with-React
 
-Certainly! Here's the revised README file:
-
----
-
-# To-Do-with-React
-
 ![To-Do App Screenshot](screenshot.png)
 
 This is a simple to-do web application built with React and Vite, allowing users to create, update, and delete tasks.

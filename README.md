@@ -54,5 +54,3 @@ npm run dev
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please [open an issue](https://github.com/bandhan-das/To-Do-with-React/issues) or [submit a pull request](https://github.com/bandhan-das/To-Do-with-React/pulls).
 
 ---
-
-Feel free to further customize the README to include any additional information or sections you feel are relevant to your project.
